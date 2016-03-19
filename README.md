@@ -1,3 +1,5 @@
 # severson-kubernetes-intro
 
-Just me playing around with Kubernetes.
+Kubernetes **Hello World Walkthrough** 
+
+(http://kubernetes.io/docs/hellonode/)[http://kubernetes.io/docs/hellonode/]
