@@ -2,7 +2,12 @@
   "name": "severson-kubernetes-intro",
   "version": "1.0.0",
   "description": "Introduction to Kubernetes",
-  "main": "server.js",
+  "main": "index.js",
+  "start": "node index",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DerekSeverson/severson-kubernetes-intro.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
