@@ -2,8 +2,8 @@
   "name": "severson-kubernetes-intro",
   "version": "1.0.0",
   "description": "Introduction to Kubernetes",
-  "main": "index.js",
-  "start": "node index",
+  "main": "server.js",
+  "start": "node server.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/DerekSeverson/severson-kubernetes-intro.git"
