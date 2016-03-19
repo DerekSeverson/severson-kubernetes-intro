@@ -1,0 +1,14 @@
+{
+  "name": "severson-kubernetes-intro",
+  "version": "1.0.0",
+  "description": "Introduction to Kubernetes",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "severson"
+  ],
+  "author": "Derek Severson",
+  "license": "ISC"
+}
